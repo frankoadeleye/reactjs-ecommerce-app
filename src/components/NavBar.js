@@ -12,7 +12,7 @@ export default class Navbar extends Component{
                     https://www.iconfinder.com/Makoto_msk 
                     we just wrote the link to this logo here because it is not our own logo, but we downloaded it from
                      the site written above, and they want us to indicate that in our project.*/}
-                <Link to='https://frankoadeleye.github.io/reactjs-ecommerce-app'>
+                <Link to='/reactjs-ecommerce-app'>
                     <img src={logo} alt='navbar-brand'  className="navbar-brand"/>
                 </Link>
                 <ul className="navbar-nav align-items-center">
