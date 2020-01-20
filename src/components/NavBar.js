@@ -18,7 +18,7 @@ export default class Navbar extends Component{
                 <ul className="navbar-nav align-items-center">
                     <li className="nav-items ml-5">
                         <Link to="/reactjs-ecommerce-app" className="nav-link">
-                            products
+                            <a href="https://frankoadeleye.github.io/reactjs-ecommerce-app">Product</a>
                         </Link>
                     </li> 
                 </ul>
