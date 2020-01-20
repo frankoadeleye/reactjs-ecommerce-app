@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.adcad465.chunk.css",
-    "main.js": "/static/js/main.48239392.chunk.js",
-    "main.js.map": "/static/js/main.48239392.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.97225f3c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.97225f3c.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.686139f3.chunk.js": "/static/js/2.686139f3.chunk.js",
-    "static/js/2.686139f3.chunk.js.map": "/static/js/2.686139f3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ac6483a6cee8cd0529a4f7e8964c03f0.js": "/precache-manifest.ac6483a6cee8cd0529a4f7e8964c03f0.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.adcad465.chunk.css.map": "/static/css/main.adcad465.chunk.css.map",
-    "static/js/2.686139f3.chunk.js.LICENSE": "/static/js/2.686139f3.chunk.js.LICENSE",
-    "static/media/oceanLogolatest.png": "/static/media/oceanLogolatest.182633b6.png"
+    "main.css": "/reactjs-ecommerce-app/static/css/main.adcad465.chunk.css",
+    "main.js": "/reactjs-ecommerce-app/static/js/main.dfab3dee.chunk.js",
+    "main.js.map": "/reactjs-ecommerce-app/static/js/main.dfab3dee.chunk.js.map",
+    "runtime-main.js": "/reactjs-ecommerce-app/static/js/runtime-main.36bdb8ef.js",
+    "runtime-main.js.map": "/reactjs-ecommerce-app/static/js/runtime-main.36bdb8ef.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/reactjs-ecommerce-app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.f956b8d6.chunk.js": "/reactjs-ecommerce-app/static/js/2.f956b8d6.chunk.js",
+    "static/js/2.f956b8d6.chunk.js.map": "/reactjs-ecommerce-app/static/js/2.f956b8d6.chunk.js.map",
+    "index.html": "/reactjs-ecommerce-app/index.html",
+    "precache-manifest.e88c4de0e1957cc1638d197b347368b7.js": "/reactjs-ecommerce-app/precache-manifest.e88c4de0e1957cc1638d197b347368b7.js",
+    "service-worker.js": "/reactjs-ecommerce-app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/reactjs-ecommerce-app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.adcad465.chunk.css.map": "/reactjs-ecommerce-app/static/css/main.adcad465.chunk.css.map",
+    "static/js/2.f956b8d6.chunk.js.LICENSE": "/reactjs-ecommerce-app/static/js/2.f956b8d6.chunk.js.LICENSE",
+    "static/media/oceanLogolatest.png": "/reactjs-ecommerce-app/static/media/oceanLogolatest.182633b6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.97225f3c.js",
+    "static/js/runtime-main.36bdb8ef.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.686139f3.chunk.js",
+    "static/js/2.f956b8d6.chunk.js",
     "static/css/main.adcad465.chunk.css",
-    "static/js/main.48239392.chunk.js"
+    "static/js/main.dfab3dee.chunk.js"
   ]
 }
