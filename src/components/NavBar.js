@@ -22,13 +22,13 @@ export default class Navbar extends Component{
                         </Link>
                     </li> 
                 </ul>
-                <Link to="/signup" className="nav-link">
+                <Link to="/reactjs-ecommerce-app/signup" className="nav-link">
                     Sign up
                 </Link>
-                <Link to="/login" className="nav-link">
+                <Link to="/reactjs-ecommerce-app/login" className="nav-link">
                     Login
                 </Link>
-                <Link to="/cart" className="ml-auto">
+                <Link to="/reactjs-ecommerce-app/cart" className="ml-auto">
                     <ButtonContainer><span className="mr-2"><i className="fas fa-cart-plus"></i></span> cart</ButtonContainer>
                 </Link>
            </NavWrapper>
