@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactjs-ecommerce-app/static/css/main.adcad465.chunk.css",
+    "main.js": "/reactjs-ecommerce-app/static/js/main.dfab3dee.chunk.js",
+    "main.js.map": "/reactjs-ecommerce-app/static/js/main.dfab3dee.chunk.js.map",
+    "runtime-main.js": "/reactjs-ecommerce-app/static/js/runtime-main.36bdb8ef.js",
+    "runtime-main.js.map": "/reactjs-ecommerce-app/static/js/runtime-main.36bdb8ef.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/reactjs-ecommerce-app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.f956b8d6.chunk.js": "/reactjs-ecommerce-app/static/js/2.f956b8d6.chunk.js",
+    "static/js/2.f956b8d6.chunk.js.map": "/reactjs-ecommerce-app/static/js/2.f956b8d6.chunk.js.map",
+    "index.html": "/reactjs-ecommerce-app/index.html",
+    "precache-manifest.e88c4de0e1957cc1638d197b347368b7.js": "/reactjs-ecommerce-app/precache-manifest.e88c4de0e1957cc1638d197b347368b7.js",
+    "service-worker.js": "/reactjs-ecommerce-app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/reactjs-ecommerce-app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.adcad465.chunk.css.map": "/reactjs-ecommerce-app/static/css/main.adcad465.chunk.css.map",
+    "static/js/2.f956b8d6.chunk.js.LICENSE": "/reactjs-ecommerce-app/static/js/2.f956b8d6.chunk.js.LICENSE",
+    "static/media/oceanLogolatest.png": "/reactjs-ecommerce-app/static/media/oceanLogolatest.182633b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36bdb8ef.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.f956b8d6.chunk.js",
+    "static/css/main.adcad465.chunk.css",
+    "static/js/main.dfab3dee.chunk.js"
+  ]
+}
