@@ -17,18 +17,18 @@ export default class Navbar extends Component{
                 </Link>
                 <ul className="navbar-nav align-items-center">
                     <li className="nav-items ml-5">
-                        <Link to="/reactjs-ecommerce-app" className="nav-link">
+                        <Link to="/" className="nav-link">
                             products
                         </Link>
                     </li> 
                 </ul>
-                <Link to="/reactjs-ecommerce-app/signup" className="nav-link">
+                <Link to="/signup" className="nav-link">
                     Sign up
                 </Link>
-                <Link to="/reactjs-ecommerce-app/login" className="nav-link">
+                <Link to="/login" className="nav-link">
                     Login
                 </Link>
-                <Link to="/reactjs-ecommerce-app/cart" className="ml-auto">
+                <Link to="/cart" className="ml-auto">
                     <ButtonContainer><span className="mr-2"><i className="fas fa-cart-plus"></i></span> cart</ButtonContainer>
                 </Link>
            </NavWrapper>

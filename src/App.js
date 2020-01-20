@@ -19,10 +19,10 @@ class  App extends Component {
           <Navbar />
           <Switch>
             <Route exact path="/reactjs-ecommerce-app" component={ProductList} />
-            <Route path="/reactjs-ecommerce-app/details" component={Details} />
-            <Route path="/reactjs-ecommerce-app/cart" component={Cart} />
-            <Route path="/reactjs-ecommerce-app/signup" component={MySignupForm} />
-            <Route path="/reactjs-ecommerce-app/login" component={MyLoginForm} />
+            <Route path="/details" component={Details} />
+            <Route path="/cart" component={Cart} />
+            <Route path="/signup" component={MySignupForm} />
+            <Route path="/login" component={MyLoginForm} />
             <Route  component={Default} />
           </Switch>
           <Modal />

@@ -28,7 +28,7 @@ export default class Modal extends Component {
                                             continue shopping
                                         </SecondButtonContainer>
                                      </Link>
-                                     <Link to='/reactjs-ecommerce-app/cart'>
+                                     <Link to='/cart'>
                                         <ViewCartButtonContainer cart onClick={() =>  closeModal()}>
                                             view cart
                                         </ViewCartButtonContainer>
