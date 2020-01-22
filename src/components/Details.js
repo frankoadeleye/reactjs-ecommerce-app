@@ -39,7 +39,7 @@ export default class Details extends Component {
                       <p className='text-muted lead'>{info} </p>
                       {/* button */}
                       <div>
-                        <Link to='/reactjs-ecommerce-app'>
+                        <Link to='/'>
                             <SecondButtonContainer>Back to Products</SecondButtonContainer>
                         </Link>
                         <ViewCartButtonContainer  cart disabled={inCart?true: false} onClick={() => {

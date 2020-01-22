@@ -23,7 +23,7 @@ export default class Modal extends Component {
                                      <img src={img} alt='product' className='img-fluid' />
                                      <h5>{title}</h5>
                                      <h5 className='text-muted'>price : $ {price}</h5>
-                                     <Link to='/reactjs-ecommerce-app'>
+                                     <Link to='/'>
                                         <SecondButtonContainer onClick={() =>  closeModal()}>
                                             continue shopping
                                         </SecondButtonContainer>
