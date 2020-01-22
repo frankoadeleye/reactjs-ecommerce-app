@@ -27,6 +27,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+###First of all, note that React Router Redirects may cause some errors when routing
+React is a router might not be properly understood by Github pages during redirects in their free hosting
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
